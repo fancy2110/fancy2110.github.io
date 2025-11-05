@@ -132,7 +132,7 @@ projects:
       tagline: "海绵音乐是一款全新AI生成式音乐产品——AI 助力，让音乐梦想不再遥不可及!"
 
 oss:
-  title: 一些自己的爱好和业余
+  title: 爱好&业余
   contributions:
     - title: 磁盘管理
       link: "https://github.com/fancy2110/cleaner"
