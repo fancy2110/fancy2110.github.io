@@ -15,9 +15,9 @@ sidebar:
   # Sidebar links
   email: fancy2110@qq.com
   phone: 18202140606
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://fancy2110.cn/ # Include the full website URL, including "http://" or "https://".
+  timezone: China/Beijing # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: Shaihai
+  # website: https://fancy2110.cn/ # Include the full website URL, including "http://" or "https://".
   github: fancy2110
   telegram: # add your nickname without '@' sign
   stack-overflow: # Number/Username, e.g. 123456/alandoe
