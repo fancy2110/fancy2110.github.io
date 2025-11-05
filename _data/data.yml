@@ -150,19 +150,16 @@ skills:
   title: 技术栈 &amp; 能力
 
   toolset:
-    - name: Java & Kotlin
+    - name: Client(Kotlin/Java/etc)
       level: 98%
 
-    - name: JavaScript & TypeScript
+    - name: Web(Javascript/Typescript/etc)
       level: 30%
 
-    - name: Rust
+    - name: System(C/C++/Rust/etc)
       level: 60%
 
-    - name: C/C++
-      level: 40%
-
-    - name: Swift
+    - name: Other(Shell/Python/Swift/etc)
       level: 20%
 
 footer: >
