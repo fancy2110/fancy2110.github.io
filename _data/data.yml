@@ -20,12 +20,12 @@ sidebar:
   website: https://fancy2110.cn/ # Include the full website URL, including "http://" or "https://".
   linkedin: alandoe
   xing: alandoe
-  github: jekyll
+  github: fancy2110
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: "@jekyllrb.bsky.social" # Specify your full Bluesky handle
-  twitter: "@jekyllrb"
+  bluesky:
+  twitter:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -35,55 +35,33 @@ sidebar:
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
-    title: Languages
+    title: 语言
     info:
       - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+        level: B2/1
 
   interests:
-    title: Interests
+    title: 爱好
     info:
-      - item: Climbing
+      - item: 爬山
         link:
 
-      - item: Snowboarding
+      - item: 做饭
         link:
 
-      - item: Cooking
+      - item: 电影
         link:
 
 career-profile:
-  title: Career Profile
+  title: 个人简洁
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    写过很多代码：C/C++/Java/Kotlin/Rust等，偏好Rust与Kotlin的优雅表达,持续探索产品研发，享受将想法落地的过程
 education:
   title: Education
   info:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: 计算机科学与技术(本科)
+      university: 华中科技大学
+      time: 2008 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
