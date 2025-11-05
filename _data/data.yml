@@ -142,16 +142,13 @@ skills:
   title: 技术栈 &amp; 能力
 
   toolset:
-    - name: Client(Kotlin/Java/etc)
+    - name: App(Kotlin/Java)
       level: 98%
-
-    - name: Web(Js/Ts/etc)
-      level: 30%
-
-    - name: System(C/C++/Rust/etc)
+    - name: App(C/C++/Rust)
       level: 60%
-
-    - name: Other(Scripts/etc)
+    - name: Web(Js/Ts)
+      level: 30%
+    - name: Scripts
       level: 40%
 
 footer: >
