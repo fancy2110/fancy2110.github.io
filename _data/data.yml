@@ -60,13 +60,9 @@ education:
       university: 华中科技大学
       time: 2008 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        认识了很多有趣的人,做了一些有趣的事,学到了一些有用的知识
+          - 参与腾讯技术俱乐部, 开始接触参与了移动应用开发
+          - 参加了一个电商的创业项目与一个外卖的项目,全面了解了web系统的开发, 也了解了一个产品的生命周期
 
 experiences:
   title: 工作经历
@@ -110,11 +106,11 @@ projects:
 
     - title: 抖音/Tiktok
       link: "https://www.douyin.com/"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
+      tagline: "抖音是一款让用户通过手机轻松创作、分享音乐创意短视频，并以此进行社交娱乐的移动应用。"
 
     - title: Resso/Tiktok-Music
       link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      tagline: "Resso 是字节跳动推出的全球音乐流媒体平台，主打「视觉化音乐互动」，通过同步歌词、个性化音乐视频、评论区互动和便捷的歌曲剪辑功能，让听音乐成为沉浸式的社交体验。"
 
     - title: 图虫
       link: "https://tuchong.com/"
