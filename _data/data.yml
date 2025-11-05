@@ -143,8 +143,8 @@ skills:
 
   toolset:
     - name: App(Kotlin/Java)
-      level: 98%
-    - name: App(C/C++/Rust)
+      level: 90%
+    - name: OS(C/C++/Rust)
       level: 60%
     - name: Web(Js/Ts)
       level: 30%
