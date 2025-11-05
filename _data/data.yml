@@ -4,7 +4,7 @@
 
 sidebar:
   position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
@@ -52,7 +52,7 @@ sidebar:
 career-profile:
   title: 个人简介
   summary: |
-    写过很多代码：C/C++/Java/Kotlin/Rust等，偏好Rust与Kotlin的优雅表达,持续探索产品研发，享受将想法落地的过程
+    写过很多代码C/C++/Java/Kotlin/Rust等，喜欢Kotlin和Rust的语言哲学和语法风格,一直在实现自己想法的路上探索着
 education:
   title: 教育经历
   info:
@@ -86,8 +86,9 @@ experiences:
       details: |
         主要负责核心系统: 例如任务派发系统、风控审核系统、用户信息验证系统等开发和设计;同时自己负责了公司项目研发团队建设,搭建了20规模的产品研发团队
         支持业务完成了贷款规模从0到数亿的规模, 实现了全链路对账自动化. 同时在公司IT系统安全、运维方面做了大量工作,解决了数次入侵、显著提升了资源利用率
+
+          - 创业项目的研发团队搭建与管理、构建整套产品研发与运维体系
           - 核心加密模块, 采用了二进制随机混淆+编译实时生成方案避免了核心密钥的泄漏风险
-          - 创业项目的研发团队搭建与管理、引入自动化部署等
 
     - role: 系统研发工程师
       time: 2011 - 2014
