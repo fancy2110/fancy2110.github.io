@@ -1,201 +1,24 @@
-
-<!DOCTYPE HTML>
-<html lang="zh-hans" >
-    <head>
-        <meta charset="UTF-8">
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>Introduction · Fancy2110的个人笔记</title>
-        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <meta name="description" content="">
-        <meta name="generator" content="GitBook 3.2.3">
-        
-        
-        
-    
-    <link rel="stylesheet" href="gitbook/style.css">
-
-    
-            
-                
-                <link rel="stylesheet" href="gitbook/gitbook-plugin-search-pro/search.css">
-                
-            
-                
-                <link rel="stylesheet" href="gitbook/gitbook-plugin-highlight/website.css">
-                
-            
-        
-
-    
-
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-
-        
-    
-    
-    <meta name="HandheldFriendly" content="true"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="gitbook/images/apple-touch-icon-precomposed-152.png">
-    <link rel="shortcut icon" href="gitbook/images/favicon.ico" type="image/x-icon">
+---
+layout: default
+---
 
 
-    
-    
+{% include career-profile.html %}
 
-    </head>
-    <body>
-        
-<div class="gb-page-wrapper">
-    <header class="gb-page-header">
-        <div class="container">
-        
-            
-<div id="book-search-input" role="search">
-    <input type="text" placeholder="输入并搜索" />
-</div>
+{% unless site.data.data.sidebar.education %}
+  {% include education.html %}
+{% endunless %}
 
+{% include experiences.html %}
 
-            <a href="." class="logo">
-                <img src="gitbook/images/logo/128.png">
-                <h1>Fancy2110的个人笔记</h1>
-            </a>
+{% include certifications.html %}
 
-            
+{% include projects.html %}
 
-            
-                
-                
-            
-        
-        </div>
-    </header>
+{% include oss-contributions.html %}
 
-    <div class="gb-page-body">
-        <div class="gb-page-inner">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-3">
-                        
+{% include publications.html %}
 
+{% include recommendations.html %}
 
-
-    
-    <div class="panel panel-default">
-        
-
-        <div class="list-group">
-            
-    
-        
-        <a href="./" class="list-group-item active">
-        
-
-            
-
-            
-
-            Introduction
-
-        
-        </a>
-        
-
-        
-    
-
-        </div>
-    </div>
-    
-
-
-
-                    </div>
-                    <div class="col-md-9">
-                        
-<div id="book-search-results">
-    <div class="search-noresults">
-    
-                            
-                            <div class="gb-markdown book-page-inner">
-                                <h1 id="introduction">Introduction</h1>
-
-                            </div>
-                            
-                        
-    </div>
-    <div class="search-results">
-        <div class="has-results">
-            
-            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
-            <ul class="search-results-list"></ul>
-            
-        </div>
-        <div class="no-results">
-            
-            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
-            
-        </div>
-    </div>
-</div>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <footer class="gb-page-footer">
-        <div class="container">
-            <ul class="menu">
-                <li class="pull-right">
-                    <span class="service-info">Copyright GitBook 2017</span>
-                </li>
-                <li>
-                    <a href="#">Return to the top</a>
-                </li>
-                <li>
-                    <a href="#">Updated Dec 1st 17</a>
-                </li>
-            </ul>
-        </div>
-    </footer>
-</div>
-
-<script src="gitbook/gitbook.js"></script>
-
-    
-    <script src="gitbook/gitbook-plugin-search-pro/jquery.mark.min.js"></script>
-    
-
-    
-    <script src="gitbook/gitbook-plugin-search-pro/search.js"></script>
-    
-
-    
-    <script src="gitbook/gitbook-plugin-livereload/plugin.js"></script>
-    
-
-<script>
-(function() {
-    gitbook.page.hasChanged({"page":{"title":"Introduction","level":"1.1","depth":1,"dir":"ltr"},"config":{"plugins":["-sharing","-fontsettings","-lunr","-search","search-pro","theme-official","sitemap-general","livereload"],"root":"./docs","styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"sitemap-general":{"prefix":"http://"},"search-pro":{},"livereload":{},"highlight":{},"theme-official":{},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","head_keywords":"华中科大,百度,技术,PHP,Java,Python,CPP/C,架构，算法，金融","logo":"./images/logo.png","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Fancy2110的个人笔记","language":"zh-hans","head_title":"_华中科大_百度_Fancy2110_技术_日记","gitbook":">= 3.0.0","head_description":"Facny2110的个人笔记"},"file":{"path":"README.md","mtime":"2017-12-01T07:58:00.000Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2017-12-01T07:58:28.454Z"},"basePath":".","book":{"language":""}});
-})();
-</script>
-
-        
-    </body>
-</html>
-
+{% include skills.html %}
