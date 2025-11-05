@@ -131,22 +131,14 @@ projects:
       link: "https://agijuejin.feishu.cn/wiki/ByauwWlIjiREYgkP2KacA0bSnTc"
       tagline: "海绵音乐是一款全新AI生成式音乐产品——AI 助力，让音乐梦想不再遥不可及!"
 
-# oss:
-#   title: OSS Contributions
-#   intro: >
-#     You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#   contributions:
-#     - title: Tempo
-#       link: "#"
-#       tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-#     - title: Atom
-#       link: "#"
-#       tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-#     - title: Delta
-#       link: "#"
-#       tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+oss:
+  title: OSS Contributions
+  intro: >
+    一些自己的爱好和业余
+  contributions:
+    - title: 磁盘管理
+      link: "https://github.com/fancy2110/cleaner"
+      tagline: "尝试使用rust生态构建一个简单可用的磁盘管理工具"
 
 skills:
   title: 技术栈 &amp; 能力
