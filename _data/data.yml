@@ -139,7 +139,7 @@ oss:
       tagline: "尝试使用rust生态构建一个简单可用的磁盘管理工具, 能够帮助开发自动化的整理磁盘,避免高频的磁盘瓶颈"
 
 skills:
-  title: 技术栈 &amp; 能力
+  title: 技术栈
 
   toolset:
     - name: App(Kotlin/Java)
