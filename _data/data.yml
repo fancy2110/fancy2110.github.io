@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: 樊溪(Xi. Fan)
-  tagline: Software Developer
+  tagline: 软件开发工程师
   avatar: avatar.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -18,14 +18,8 @@ sidebar:
   timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://fancy2110.cn/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
   github: fancy2110
   telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky:
-  twitter:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -38,7 +32,7 @@ sidebar:
     title: 语言
     info:
       - idiom: English
-        level: B2/1
+        level: B2-1
 
   interests:
     title: 爱好
@@ -57,7 +51,7 @@ career-profile:
   summary: |
     写过很多代码：C/C++/Java/Kotlin/Rust等，偏好Rust与Kotlin的优雅表达,持续探索产品研发，享受将想法落地的过程
 education:
-  title: Education
+  title: 教育经历
   info:
     - degree: 计算机科学与技术(本科)
       university: 华中科技大学
@@ -72,7 +66,7 @@ education:
           - Bullet point
 
 experiences:
-  title: Experiences
+  title: 工作经历
   info:
     - role: Lead Developer
       time: 2015 - Present
@@ -111,47 +105,6 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-
-certifications:
-  title: Certifications
-  list:
-    - name: CV Builder
-      start: 2020
-      end: 2021
-      organization: Microsoft
-      credentialid: 111-222
-      credentialurl: www.google.com
-      credentialname: Google
-      details: |
-        Details about cert. Lorem ipsum dolor sit amet, consectetur
-        adipiscing elit.
-        Nullam eget orci purus. Nullam ultrices neque nibh.
-        Aenean fermentum, felis vulputate suscipit accumsan,
-        sem enim bibendum augue, sed convallis arcu lacus at dui.
-        Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-        Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-        Praesent venenatis erat non augue suscipit consectetur.
-
-        Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-        fringilla vel. Ut euismod, sem sed vulputate venenatis,
-        justo diam viverra velit, sed rhoncus leo leo eu justo.
-        Suspendisse placerat risus ante, sed porta nisi blandit at.
-    - name: Git learning
-      start: 2019
-      end:
-      organization: Microsoft
-      credentialid: 111-222
-      credentialurl: www.github.com
-      credentialname: Github
-      details: |
-        Older certification. Lorem ipsum dolor sit amet, consectetur
-        adipiscing elit.
-        Nullam eget orci purus. Nullam ultrices neque nibh.
-        Aenean fermentum, felis vulputate suscipit accumsan,
-        sem enim bibendum augue, sed convallis arcu lacus at dui.
-        Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-        Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-        Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
   title: Projects
@@ -194,46 +147,6 @@ oss:
     - title: Delta
       link: "#"
       tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-    - title: The Art of Computer Programming
-      link: "#"
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
-
-    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      link: "#"
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-    - title: A syntax directed compiler for Algol 60
-      link: "#"
-      authors: Edgar T. Irons
-      conference: "Comm. ACM 4 (1961), 51–55"
-
-recommendations:
-  title: Recommendations
-  list:
-    - person: Yareli Perez
-      email: perezyareli@example.com
-      phone: 012 345 6789
-      role: General Director at example.com
-      recommendation: |
-        Alan Doe is a super employee!
-    - person: Lara Henderson
-      email: larah@example.com
-      phone: 012 345 6789
-      role: General Director at example.com
-      recommendation: |
-        I would like to work with Alan Doe again!
-
-        He is a great employee!
 
 skills:
   title: Skills &amp; Proficiency
