@@ -153,14 +153,14 @@ skills:
     - name: Client(Kotlin/Java/etc)
       level: 98%
 
-    - name: Web(Javascript/Typescript/etc)
+    - name: Web(Js/Ts/etc)
       level: 30%
 
     - name: System(C/C++/Rust/etc)
       level: 60%
 
-    - name: Other(Shell/Python/Swift/etc)
-      level: 20%
+    - name: Other(Scripts/etc)
+      level: 40%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
