@@ -68,35 +68,28 @@ education:
 experiences:
   title: 工作经历
   info:
-    - role: Tech Owner
+    - role: 高级研发工程师 & Tech Owner
       time: 2018 - 目前
       company: Bytedance
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        重点支持了Resso、抖音盒子、海绵音乐等多个业务线从0到1起步, 针对App开发的业务需求: 针对多用户多模态数据管理解决方案, 针对复杂业务中埋点框架,启动调度框架等
+        在基础架构、性能优化等方向支持了抖音本地生活服务,TiktokMusic.针对不同的业务场景提供了技术解决方案.提出了、构建了复杂业务架构下的埋点、
+
+          - DataManager: 多模态多用户数据隔离管理解决方案, 支持不同数据格式(数据库,文件,kv等)在不同版本的平滑迁移,实现了业务透明的用户数据管理
+          - EventLog: 解决复杂业务场景下,上下文参数需要跨模块、跨页面、跨进程的参数传递需求,显著降低了埋点与业务的耦合
+          - 启动优化: 实现了启动任务的动态调度、最大层度的减少了启动任务随业务迭代持续裂化的风险
+          - 多模态Feed播放器框架: 实现了队列与播放器的耦合解除, 显著提升了Feed的加载速度,降低了播放器与队列管理的逻辑耦合.
+          - 新技术应用: 推动MVVM在Resso 与TiktokMusic的全量应用, compose 在海绵音乐的落地
     - role: 技术合伙人,研发工程师
       time: 2014 - 2016
-      company: 融360 & 小虫科技
+      company: 融360 / 小虫科技
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        在这个阶段主要承担了核心服务的开发工程师,设计实现了例如任务派发系统、风控审核系统、用户信息验证系统等;同时自己主要负责了公司项目研发团队建设
+          - 核心加密模块, 采用了二进制随机混淆+编译实时生成方案避免了核心密钥的泄漏风险
+          - 创业项目的研发团队搭建与管理
     - role: 系统研发工程师
       time: 2011 - 2014
-      company: Baidu & Renren
+      company: Baidu / Renren
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
