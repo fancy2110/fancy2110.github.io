@@ -107,46 +107,44 @@ experiences:
           - Bullet point
 
 projects:
-  title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  title: 参与的项目
   assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - title: 百度知道
+      link: "https://zhidao.baidu.com/"
+      tagline: "百度知道是一个基于搜索的互动式知识问答分享平台，于2005年6月21日发布，并于2005年11月8日转为正式版"
 
-    - title: DevStudio
-      link: "#"
+    - title: 抖音/Tiktok
+      link: "https://www.douyin.com/"
       tagline: "A responsive website template designed to help web developers/designers market their services."
 
-    - title: Tempo
+    - title: Resso/Tiktok-Music
       link: "#"
       tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    - title: 图虫
+      link: "https://tuchong.com/"
+      tagline: "国内领先的原创摄影分享平台和国内最大的摄影师社区"
 
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - title: 海绵音乐
+      link: "https://agijuejin.feishu.cn/wiki/ByauwWlIjiREYgkP2KacA0bSnTc"
+      tagline: "海绵音乐是一款全新AI生成式音乐产品——AI 助力，让音乐梦想不再遥不可及!"
 
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+# oss:
+#   title: OSS Contributions
+#   intro: >
+#     You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#   contributions:
+#     - title: Tempo
+#       link: "#"
+#       tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#     - title: Atom
+#       link: "#"
+#       tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#     - title: Delta
+#       link: "#"
+#       tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
   title: Skills &amp; Proficiency
